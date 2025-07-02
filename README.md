@@ -54,7 +54,7 @@ sudo systemctl start jenkins
 
 ---
 
-### 4. Install Git & Maven
+### 4. Install Git, JDK & Maven
 
 ```bash
 sudo yum install git -y
